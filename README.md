@@ -20,4 +20,4 @@ https://www.google.com/search?q=%E4%B8%AD%E6%96%87
 
 ![](https://i.imgur.com/LDMf0w5.png)
 
-其他浏览器，且没有安装插件，例如先复制 `ttps://www.google.com/search?q=中文`，粘贴后再前面加个 `h`。
+其他浏览器如果没有安装插件，可以先复制一部分。例如复制 `ttps://www.google.com/search?q=中文`，粘贴后在前面加个 `h`。
