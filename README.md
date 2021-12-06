@@ -19,3 +19,5 @@ https://www.google.com/search?q=%E4%B8%AD%E6%96%87
 2. 输入框内输入 `browser.urlbar.decodeURLsOnCopy` 会弹出默认为 `false`，点击右侧切换为 `true`，这样复制的链接不会改变。
 
 ![](https://i.imgur.com/LDMf0w5.png)
+
+其他浏览器，且没有安装插件，例如先复制 `ttps://www.google.com/search?q=中文`，粘贴后再前面加个 `h`。
